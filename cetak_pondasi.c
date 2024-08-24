@@ -4,7 +4,7 @@
 #include <stdlib.h>
 // ada dua pilihan untuk menyelesaikan soal ini, yaitu dengan menggunakan array dan tanpa menggunakan array
 
-// ini cara ribetnya....
+// ini cara ribetnya.....
 void printPancasila() {
     const char* pancasila[5] = {
         "Ketuhanan yang Maha Esa",

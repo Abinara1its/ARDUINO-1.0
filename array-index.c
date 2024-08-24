@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
-
+// jawaban sederhana
 int main() {
     int n, x, i, index = -1;
 

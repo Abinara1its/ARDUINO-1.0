@@ -1,5 +1,5 @@
 #include <stdio.h> 
-/* ini versi panjangnya 
+/* ini versi panjangnya.. 
 float hitungTotalBayar(int totalBelanja) {
     float totalBayar;
     

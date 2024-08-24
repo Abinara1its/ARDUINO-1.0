@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//simple seperti ini
 int main() {
     char s[101]; 
     int i, j, len = 0;

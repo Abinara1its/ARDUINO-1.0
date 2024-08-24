@@ -1,5 +1,5 @@
 #include <stdio.h>
-//ini menggunakan operator ternary
+//ini menggunakan operator ternary...
 int main() {
     int tahun;
     
