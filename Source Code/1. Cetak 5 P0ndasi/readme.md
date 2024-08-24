@@ -1,4 +1,4 @@
-**Soal : Mencetak Pancasila**
+## Soal : Mencetak Pancasila
 
 Deskripsi : Anda diminta untuk menulis sebuah program yang mencetak kelima sila Pancasila dalam urutan yang benar, dengan setiap sila dicetak pada baris yang terpisah.
 
@@ -10,6 +10,7 @@ Tidak ada input yang diperlukan untuk soal ini.
 Constraints : Tidak ada batasan khusus.
 
 Output Format : 
+
 Program harus mencetak setiap sila Pancasila dalam urutan yang benar, dengan setiap sila ditempatkan pada baris baru. Setiap sila juga harus diawali dengan nomor urutan diikuti oleh tanda titik (.), kemudian diikuti oleh teks sila yang sesuai.
 
 Contoh Output :
