@@ -11,11 +11,12 @@ Constraints :
 Suhu C berada dalam rentang -273.15 ≤ C ≤ 10^4.
 ```
 Output :
-
+```
 Tiga baris
-- Suhu dalam Reamur: (4/5) * C
-- Suhu dalam Kelvin: C + 273.15
-- Suhu dalam Fahrenheit: (9/5) * C + 32
+Suhu dalam Reamur: (4/5) * C
+Suhu dalam Kelvin: C + 273.15
+Suhu dalam Fahrenheit: (9/5) * C + 32
+```
 Contoh:
 
 Input :
