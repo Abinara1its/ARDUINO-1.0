@@ -2,7 +2,6 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
-// jawaban sederhana
 int main() {
     double C;
 
