@@ -1,4 +1,4 @@
-**Soal : Pola Piramida Terbalik dari String**
+## Soal : Pola Piramida Terbalik dari String
 
 Deskripsi: Yanto, seorang hacker handal, ingin membuat program yang menerima input berupa sebuah string dan menampilkan pola piramida terbalik dari huruf-huruf string tersebut. Setiap baris akan menampilkan huruf dari string dengan panjang yang bertambah satu huruf pada tiap barisnya, dimulai dari huruf pertama hingga seluruh huruf dicetak.
 

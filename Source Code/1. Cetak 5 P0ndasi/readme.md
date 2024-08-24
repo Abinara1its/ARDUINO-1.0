@@ -1,4 +1,4 @@
-**Soal : Mencetak Pancasila**
+## Soal : Mencetak Pancasila
 
 Deskripsi : Anda diminta untuk menulis sebuah program yang mencetak kelima sila Pancasila dalam urutan yang benar, dengan setiap sila dicetak pada baris yang terpisah.
 

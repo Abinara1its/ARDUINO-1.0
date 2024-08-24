@@ -1,4 +1,4 @@
-**Soal: Menentukan Hari dalam Seminggu dari Tanggal**
+## Soal: Menentukan Hari dalam Seminggu dari Tanggal
 
 Deskripsi : Anda diminta untuk membuat program yang menentukan hari dalam seminggu berdasarkan tanggal yang diberikan. Program menerima input tiga bilangan bulat: tanggal (d), bulan (m), dan tahun (y). Jika input valid, program menampilkan hari dalam seminggu untuk tanggal tersebut. Jika tidak valid, program menampilkan pesan kesalahan.
 

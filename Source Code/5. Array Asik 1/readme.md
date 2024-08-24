@@ -1,4 +1,4 @@
-**Soal : Mencari Indeks Angka dalam Array**
+## Soal : Mencari Indeks Angka dalam Array
 
 Deskripsi : Tulis program dalam bahasa C untuk mencari indeks suatu angka dalam array. Program akan meminta jumlah elemen array, elemen-elemen array tersebut, dan angka yang ingin dicari. Jika angka ditemukan, tampilkan indeksnya. Jika tidak, tampilkan pesan bahwa angka tersebut tidak ada.
 

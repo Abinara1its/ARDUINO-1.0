@@ -1,4 +1,4 @@
-**Soal : Pengecekan Tahun Kabisat**
+## Soal : Pengecekan Tahun Kabisat
 
 Deskripsi : Buatlah program yang menerima input berupa sebuah tahun (4 digit angka) dan menentukan apakah tahun tersebut merupakan tahun kabisat atau bukan berdasarkan aturan berikut:
 

@@ -1,4 +1,4 @@
-**Soal : Konversi Suhu dari Celsius ke Reamur, Kelvin, dan Fahrenheit**
+## Soal : Konversi Suhu dari Celsius ke Reamur, Kelvin, dan Fahrenheit
 
 Deskripsi : Program ini menerima input suhu dalam derajat Celsius dan mengonversinya ke tiga skala lainnya: Reamur, Kelvin, dan Fahrenheit. Output harus ditampilkan dalam urutan Reamur, Kelvin, dan Fahrenheit, masing-masing dengan dua angka di belakang koma.
 
