@@ -51,7 +51,7 @@ int main() {
     scanf("%d %d %d", &d, &m, &y);
 
     if (y < 1 || y > 9999) {
-        printf("Invalid years\n");
+        printf("Invalid year\n");
     } else if (m < 1 || m > 12) {
         printf("Invalid month\n");
     } else if (!isValidDate(d, m, y)) {
