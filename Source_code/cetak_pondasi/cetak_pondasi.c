@@ -1,3 +1,10 @@
+/*
+Materi : Penggunaan perintah Output dan penjelasan mengenai fungsi
+
+Terdapat sebuah teks yang harus dicetak ke layar. kamu diminta untuk membuat program output yang 
+sesuai dengan test case yang diberikan.
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
