@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
-// ini bonus soalnya...
+
 int kabisat(int tahun) {
     return (tahun % 4 == 0 && tahun % 100 != 0) || (tahun % 400 == 0);
 }

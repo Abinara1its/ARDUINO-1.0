@@ -2,6 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
+
 int main() {
     int n, x, i, index = -1;
 
